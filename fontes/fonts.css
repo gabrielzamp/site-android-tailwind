@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'Idroid'; /* Choose a name for your font */
+    src: url('fontes/idroid.otf') format('opentype'), /* Path to the font file */
+}
